@@ -1,0 +1,14 @@
+Mcu Type=CH32V10x
+Address=0x08000000
+Target Path=obj\E_Git.hex
+Erase All=true
+Program=true
+Verify=true
+Reset=true
+
+Toolchain=RISC-V
+Series=CH32V103
+Description=ROM(byte): 64K, SRAM(byte): 20K, CHIP PINS: 64, GPIO PORTS: 51.\nCH32V103 series general-purpose microcontrollers take RISC-V3A processor as the core and mount a wealth of peripheral interface and function modules, including clock safety mechanism, multi-level power management, general-purpose DMA controller, multi-channel 12-bit ADC conversion module, Multi-channel touch key capacitance detection (TKey), advanced and general timers, USB2.0 host controller and device controller, multi-channel I2C/USART/SPI interface, etc.
+
+Vendor=WCH
+Link=WCH-Link

@@ -1,0 +1,6 @@
+摄像头W80, H60
+陀螺仪变量
+SEEKFREE_FONT不要删
+zf_camera.c
+	#include "SEEKFREE_UART_7725.h"
+71	    OV7725_UART_DMA_CH->CNTR = OV7725_UART_SIZE;	//设置当前DMA传输的剩余数量，向下递减，该寄存器只能在DMA不工作时更改。
