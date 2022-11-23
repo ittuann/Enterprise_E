@@ -1,0 +1,9 @@
+# Files with Windows line endings
+*.c   text eol=crlf
+*.cpp text eol=crlf
+*.h   text eol=crlf
+*.bat text eol=crlf
+
+# Binary files
+*.bin      binary
+*.uvprojx  binary
