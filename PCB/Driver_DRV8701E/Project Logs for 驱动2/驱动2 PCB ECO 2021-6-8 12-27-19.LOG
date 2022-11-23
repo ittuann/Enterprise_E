@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=BAT Pin=R5-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Çý¶¯2 Member=Component Q1 TPH1R403NL
+Added Room: Name=Çý¶¯2
